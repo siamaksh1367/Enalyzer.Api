@@ -1,4 +1,10 @@
 
+using Enalyzer.Api.Core;
+using Enalyzer.Api.Core.Queries.WithdrawalQuery;
+using Enalyzer.Api.Core.Services.WithdrawalServices;
+using FluentValidation;
+using MediatR;
+
 namespace Enalyzer.Api
 {
     public class Program
@@ -8,7 +14,18 @@ namespace Enalyzer.Api
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddMediatR(cfg =>
+                cfg.AddBehavior(typeof(IPipelineBehavior<,>), typeof(LoggingBehavior<,>))
+                    .AddBehavior(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>))
+                    .AddBehavior(typeof(IPipelineBehavior<,>), typeof(ExceptionHandlingBehavior<,>))
+                    .RegisterServicesFromAssemblies(typeof(Program).Assembly)
+            );
+            builder.Services.AddTransient<IValidator<WithdrawalQuery>, WithdrawalQueryValidator>();
+            builder.Services.AddTransient<ExceptionHandlingMiddleware>();
 
+
+            builder.Services.AddTransient<IWithdrawalService<WithdrawalQueryResponse>, WithdrawalService>();
+            builder.Services.AddTransient<IWithdrawalStrategyFactory<Withdrawal>, WithdrawalStrategyFactory>();
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
@@ -27,6 +44,8 @@ namespace Enalyzer.Api
 
             app.UseAuthorization();
 
+
+            app.UseMiddleware<ExceptionHandlingMiddleware>();
 
             app.MapControllers();
 
