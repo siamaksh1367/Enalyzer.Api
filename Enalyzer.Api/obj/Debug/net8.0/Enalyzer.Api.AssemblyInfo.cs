@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enalyzer.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea5ea722a337e199cfee11b155666db2d83a41fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb8d12a382f6aba184410b81fd28b62c6825e3bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enalyzer.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enalyzer.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
