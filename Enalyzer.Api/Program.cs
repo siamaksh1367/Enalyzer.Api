@@ -48,7 +48,15 @@ namespace Enalyzer.Api
             app.UseMiddleware<ExceptionHandlingMiddleware>();
 
             app.MapControllers();
-
+            app.Use(async (context, next) =>
+            {
+                if (context.Request.Path == "/")
+                {
+                    context.Response.Redirect("/swagger");
+                    return;
+                }
+                await next();
+            });
             app.Run();
         }
     }
