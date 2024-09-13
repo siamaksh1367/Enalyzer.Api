@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enalyzer.Api", "Enalyzer.Api\Enalyzer.Api.csproj", "{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enalyzer.Api", "Enalyzer.Api\Enalyzer.Api.csproj", "{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enalyzer.Api.Tests", "Enalyzer.Api.Tests\Enalyzer.Api.Tests.csproj", "{37CE60C7-47B8-48BB-AB4E-617F275F1869}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CE60C7-47B8-48BB-AB4E-617F275F1869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CE60C7-47B8-48BB-AB4E-617F275F1869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CE60C7-47B8-48BB-AB4E-617F275F1869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CE60C7-47B8-48BB-AB4E-617F275F1869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
