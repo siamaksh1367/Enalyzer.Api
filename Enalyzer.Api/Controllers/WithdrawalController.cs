@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Enalyzer.Api.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class WithdrawalController : ControllerBase
     {
         private readonly ILogger<WithdrawalController> _logger;

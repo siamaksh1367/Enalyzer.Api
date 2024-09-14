@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\controllers\\withdrawalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\controllers\\withdrawalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\core\\queries\\withdrawalquery\\withdrawalqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\core\\queries\\withdrawalquery\\withdrawalqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\enalyzer.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -13,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\core\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\core\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37CE60C7-47B8-48BB-AB4E-617F275F1869}|Enalyzer.Api.Tests\\Enalyzer.Api.Tests.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +39,12 @@
       "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\core\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\controllers\\withdrawalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\controllers\\withdrawalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\core\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\core\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\core\\queries\\withdrawalquery\\withdrawalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\core\\queries\\withdrawalquery\\withdrawalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\core\\queries\\withdrawalquery\\withdrawalqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|solutionrelative:enalyzer.api\\core\\queries\\withdrawalquery\\withdrawalqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}|Enalyzer.Api\\Enalyzer.Api.csproj|d:\\source\\repos\\enalyzer\\enalyzer.api\\enalyzer.api\\core\\queries\\withdrawalquery\\withdrawalqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,40 +94,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Properties\\launchSettings.json",
               "ToolTip": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Properties\\launchSettings.json",
               "RelativeToolTip": "Enalyzer.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBoAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAawCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-13T22:59:39.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T22:59:39.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Enalyzer.Api",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Enalyzer.Api.csproj",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Enalyzer.Api.csproj",
               "ToolTip": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Enalyzer.Api.csproj",
               "RelativeToolTip": "Enalyzer.Api\\Enalyzer.Api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-13T22:59:36.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T22:59:36.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Enalyzer.Api.Tests\\UnitTest1.cs",
@@ -135,12 +129,11 @@
               "RelativeToolTip": "Enalyzer.Api.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T22:31:02.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T22:31:02.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "WithdrawalService.cs",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Core\\Services\\WithdrawalServices\\WithdrawalService.cs",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Core\\Services\\WithdrawalServices\\WithdrawalService.cs",
@@ -148,8 +141,7 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\Services\\WithdrawalServices\\WithdrawalService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T21:57:47.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T21:57:47.844Z"
             },
             {
               "$type": "Document",
@@ -161,12 +153,11 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\Services\\WithdrawalServices\\Withdrawal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:49:56.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T20:49:56.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Core\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Core\\ExceptionHandlingMiddleware.cs",
@@ -174,8 +165,7 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:24:51.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T20:24:51.223Z"
             },
             {
               "$type": "Document",
@@ -187,44 +177,43 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\Queries\\WithdrawalQuery\\WithdrawalQueryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T19:55:34.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T19:55:34.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Program.cs",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Program.cs",
               "ToolTip": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Program.cs",
               "RelativeToolTip": "Enalyzer.Api\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwC8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T18:59:32.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "WithdrawalController.cs",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Controllers\\WithdrawalController.cs",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Controllers\\WithdrawalController.cs",
               "ToolTip": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Controllers\\WithdrawalController.cs",
               "RelativeToolTip": "Enalyzer.Api\\Controllers\\WithdrawalController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T18:58:12.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "WithdrawalQueryHandler.cs",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Core\\Queries\\WithdrawalQuery\\WithdrawalQueryHandler.cs",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Core\\Queries\\WithdrawalQuery\\WithdrawalQueryHandler.cs",
               "ToolTip": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Core\\Queries\\WithdrawalQuery\\WithdrawalQueryHandler.cs",
               "RelativeToolTip": "Enalyzer.Api\\Core\\Queries\\WithdrawalQuery\\WithdrawalQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T21:49:30.973Z",
               "EditorCaption": ""
@@ -239,12 +228,11 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\ExceptionHandlingBehavior.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAowBIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:18:56.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T20:18:56.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "WithdrawalQuery.cs",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Core\\Queries\\WithdrawalQuery\\WithdrawalQuery.cs",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Core\\Queries\\WithdrawalQuery\\WithdrawalQuery.cs",
@@ -252,12 +240,11 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\Queries\\WithdrawalQuery\\WithdrawalQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T19:49:20.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T19:49:20.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Core\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Core\\ValidationBehavior.cs",
@@ -265,12 +252,11 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\ValidationBehavior.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAswA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:16:53.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T20:16:53.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LoggingBehavior.cs",
               "DocumentMoniker": "D:\\source\\repos\\Enalyzer\\Enalyzer.Api\\Enalyzer.Api\\Core\\LoggingBehavior.cs",
               "RelativeDocumentMoniker": "Enalyzer.Api\\Core\\LoggingBehavior.cs",
@@ -278,8 +264,7 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\LoggingBehavior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:19:09.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T20:19:09.643Z"
             },
             {
               "$type": "Document",
@@ -291,8 +276,7 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\Services\\WithdrawalServices\\IWithdrawalStrategyFactoriy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:55:58.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T20:55:58.428Z"
             },
             {
               "$type": "Document",
@@ -304,8 +288,7 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\Services\\WithdrawalServices\\IWithdrawalOperator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:57:10.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T20:57:10.824Z"
             },
             {
               "$type": "Document",
@@ -317,8 +300,7 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\Services\\WithdrawalServices\\GeneralWithdrawalOperator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T21:25:29.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T21:25:29.348Z"
             },
             {
               "$type": "Document",
@@ -330,8 +312,7 @@
               "RelativeToolTip": "Enalyzer.Api\\Core\\Services\\WithdrawalServices\\IWithdrawalService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T21:34:17.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T21:34:17.177Z"
             },
             {
               "$type": "Document",
@@ -343,8 +324,7 @@
               "RelativeToolTip": "Enalyzer.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-13T19:21:35.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T19:21:35.116Z"
             },
             {
               "$type": "Document",
@@ -356,8 +336,7 @@
               "RelativeToolTip": "Enalyzer.Api\\Enalyzer.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-13T19:19:52.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T19:19:52.94Z"
             },
             {
               "$type": "Document",
@@ -369,8 +348,7 @@
               "RelativeToolTip": "Enalyzer.Api\\Enalyzer.Api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-13T19:18:31.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T19:18:31.968Z"
             }
           ]
         }
