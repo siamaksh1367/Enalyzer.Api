@@ -20,6 +20,7 @@ namespace Enalyzer.Api.Controllers
         [HttpPost(Name = "GetWithdrawalDetail")]
         public async Task<ActionResult<IEnumerable<WithdrawalQueryResponse>>> Post([FromBody] WithdrawalQuery withdrawalQuery)
         {
+            await Task.Delay(3000);
             var response = await _mediator.Send(withdrawalQuery);
 
             if (response == null || !response.Any())
