@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("242ca07c-e754-4476-9cde-9a3fa56c7bda")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enalyzer.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9386ad81b000f2896f4892f44f7c31d86d5b54a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e592d0814c99267d3092c2155b1d7e462e7cb349")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enalyzer.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enalyzer.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

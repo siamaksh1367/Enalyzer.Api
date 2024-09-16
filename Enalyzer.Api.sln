@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enalyzer.Api", "Enalyzer.Api\Enalyzer.Api.csproj", "{367AFD57-B6E2-4FA5-AEB8-5228AC022BEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enalyzer.Api.Tests", "Enalyzer.Api.Tests\Enalyzer.Api.Tests.csproj", "{37CE60C7-47B8-48BB-AB4E-617F275F1869}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enalyzer.Api.Tests", "Enalyzer.Api.Tests\Enalyzer.Api.Tests.csproj", "{37CE60C7-47B8-48BB-AB4E-617F275F1869}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
