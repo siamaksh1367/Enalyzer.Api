@@ -20,7 +20,7 @@
             _withdrawalOperators.Add(new FiveCoinSecondOperator());
             _withdrawalOperators.Add(new TwoCoinSecondOperator());
             _withdrawalOperators.Add(new OneCoinThirdOperator());
-            return _withdrawalOperators;
+            return _withdrawalOperators.OrderByDescending(x => x.GetValue());
         }
     }
 }
